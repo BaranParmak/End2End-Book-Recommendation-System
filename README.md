@@ -10,7 +10,7 @@ This project develops a book recommendation system using collaborative filtering
 - **Modular Codebase**: Organized pipeline with separate stages for data ingestion, validation, transformation, and model training.
 
 ## Dataset
-The system uses the [Kaggle Book-Crossing dataset](https://www.kaggle.com/datasets/arashnic/book-crossing-dataset), consisting of:
+The system uses the [Kaggle Book-Crossing dataset](https://www.kaggle.com/datasets/arashnic/book-recommendation-dataset), consisting of:
 - `BX-Books.csv`: Book metadata (ISBN, title, author, year, publisher, image URL).
 - `BX-Users.csv`: User demographics.
 - `BX-Book-Ratings.csv`: User-book ratings.
